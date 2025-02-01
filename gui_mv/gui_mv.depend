@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732981538 source:c:\users\dudu\documents\compilador_freitas\sintatico\semantico\gui_mv\code1.c
+	<windows.h>
+	<commctrl.h>
+	<commdlg.h>
+	<stdio.h>
+	<locale.h>
+	<windowsx.h>
+
