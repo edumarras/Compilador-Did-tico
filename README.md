@@ -1,2 +1,2 @@
-# Compilador-Did-tico
+# Compilador-Didatico
 Compilador Didático desenvolvido como Projeto Final da disciplina de Desenvolvimento de Compiladores
